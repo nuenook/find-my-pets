@@ -12,8 +12,12 @@ const Menus = [
         path: '/register'
     },
     {
-        name: 'insert pet',
+        name: 'Insert pet',
         path: '/insert-pet'
+    },
+    {
+        name: 'About',
+        path: '/about'
     }
 ]
 

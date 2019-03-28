@@ -1,9 +1,9 @@
 import Layout from "../component/Layout";
-import LostDog from "../component/Lostdog";
+import LostPets from "../component/LostPets";
 
 const Home = () => (
     <Layout>
-        <LostDog />
+        <LostPets />
     </Layout>
 )
 

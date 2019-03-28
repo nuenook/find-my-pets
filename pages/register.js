@@ -1,10 +1,9 @@
 import Layout from "../component/Layout";
+import SignUp from '../component/SignUp'
 
 const Register = () => (
     <Layout>
-        <div>
-            Register
-        </div>
+        <SignUp />
     </Layout>
 )
 
